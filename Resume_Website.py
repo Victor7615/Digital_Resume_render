@@ -13,8 +13,8 @@ profile_pic = current_dir / "assets" / "profile-pic.png"
 
 # --- GENERAL SETTINGS ---
 PAGE_TITLE = "Digital Resume | Victor Emuchay"
-PAGE_ICON = "PAGE_ICON = "📋"
-"
+PAGE_ICON = "📋"
+
 NAME = "Victor Emuchay"
 DESCRIPTION = """
 Data Analyst, assisting enterprises by supporting data-driven decision-making.
